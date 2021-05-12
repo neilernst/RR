@@ -14,7 +14,7 @@ Files related to pre-registration and registered report initiatives. There is al
 | [MSR 2020](https://2020.msrconf.org/track/msr-2020-Registered-Reports) | Ernst, Siegmund           | EMSE    |
 | MSR 2021                                                     | Bissayandé, Lo            | EMSE    |
 | ICSME 2020                                                   | Ernst, Menzies            | EMSE    |
-| ICSME 2021                                                   | Treude                    | EMSE    |
+| [ICSME 2021](https://icsme2021.github.io/cfp/RegisteredReportsTrack.html) | Baldasarre, Treude        | EMSE    |
 
 # Links
 
