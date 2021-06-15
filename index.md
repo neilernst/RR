@@ -18,6 +18,12 @@ There is also a [Google Drive folder with public access](https://docs.google.com
 | [ICSME 2021](https://icsme2021.github.io/cfp/RegisteredReportsTrack.html) | Baldasarre, Treude        | EMSE    |
 | [ESEM 2021](https://conf.researchr.org/track/esem-2021/esem-2021-registered-reports) | Ernst, Carver, Baldasarre | EMSE.    | 21-06-30 |
 
+# Published RR Full Papers
+| Title | Authors | DOI |
+|--|---|---|
+
+(none yet!)
+
 # Links
 
 - [Open Science Foundation](https://cos.io/rr/) page
