@@ -1,7 +1,7 @@
 # Registered Reports Material
 Files related to pre-registration and registered report initiatives. There is also a [Google Drive folder with public access](https://docs.google.com/document/d/11ZGzwFfB8R-q9L_rhXJxW7PMXg5qvI8Pim94dH101uA/edit?usp=sharing).
 
-- emails/ - text files for sending emails to reviewers, authors
+- [emails/](https://github.com/neilernst/RR/tree/main/emails) - text files for sending emails to reviewers, authors
 - [RR author guide](https://github.com/emsejournal/openscience/blob/master/registered-reports_guide.md) (used at MSR 2020)
 - [RR Call For Papers](https://github.com/emsejournal/openscience/blob/master/rr/registered-reports_MSR_CFP.md)
 - [MSR 2020 survey instrument](msr_survey_instrument.pdf)
