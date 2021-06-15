@@ -12,10 +12,9 @@ There is also a [Google Drive folder with public access](https://docs.google.com
 
 | Venue                                                        | Chairs                    | Journal | Phase 1 due | 
 | ------------------------------------------------------------ | ------------------------- | ------- |-----|
-| ESEM 2021                                                    | Baldasarre, Carver, Ernst | EMSE    ||
+| ICSME 2020                                                   | Ernst, Menzies            | EMSE    ||
 | [MSR 2020](https://2020.msrconf.org/track/msr-2020-Registered-Reports) | Ernst, Siegmund           | EMSE    ||
 | MSR 2021                                                     | Bissayandé, Lo            | EMSE    ||
-| ICSME 2020                                                   | Ernst, Menzies            | EMSE    ||
 | [ICSME 2021](https://icsme2021.github.io/cfp/RegisteredReportsTrack.html) | Baldasarre, Treude        | EMSE    |
 | [ESEM 2021](https://conf.researchr.org/track/esem-2021/esem-2021-registered-reports) | Ernst, Carver, Baldasarre | EMSE.    | 21-06-30 |
 
