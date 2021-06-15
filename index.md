@@ -21,6 +21,7 @@ Files related to pre-registration and registered report initiatives. There is al
 
 - [Open Science Foundation](https://cos.io/rr/) page
 - [PCI initiative](https://rr.peercommunityin.org) - open access phase 1 registration hosting
-- [ESEM Journal Open Science](https://github.com/emsejournal/openscience/) page
+- [EMSE Journal Open Science](https://github.com/emsejournal/openscience/) page
 - [ACM Pre-Reg standard](https://github.com/acmsigsoft/EmpiricalStandards/blob/master/Supplements/RegisteredReports.md) (authors: Ernst/Siegmund)
 
+Maintained by [Neil Ernst](https://www.neilernst.net)
